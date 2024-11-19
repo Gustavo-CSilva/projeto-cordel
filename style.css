@@ -61,13 +61,14 @@ main #textocomimagem-1 {
     background-repeat: no-repeat;
     background-image: url('imagens/background001.jpg');
     background-size: cover;
-    background-position: center right;
+    background-position: right center;
     color: white;
     padding-top: 90px;
     padding-bottom: 90px;
     border: 1px solid transparent;
     box-shadow: 1px 1px 7px #000000;
     background-color: #000000;
+    text-shadow: 1px 1px 0px black;
 }
 
 main #textocomimagem-2 {
@@ -77,13 +78,14 @@ main #textocomimagem-2 {
     background-repeat: no-repeat;
     background-image: url('imagens/background002.jpg');
     background-size: cover;
-    background-position: center right;
+    background-position: right center;
     color: white;
     padding-top: 90px;
     padding-bottom: 90px;
     border: 1px solid transparent;
     box-shadow: 1px 1px 7px #000000;
     background-color: #000000;
+    text-shadow: 1px 1px 0px black;
 }
 
 article {
